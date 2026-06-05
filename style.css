@@ -1,0 +1,23 @@
+
+
+.pig{
+    background:#ff77c6;
+    color:white;
+}
+
+.botones {
+        padding: 5px 10px;
+        font-size: 18px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 5;
+        color: #fff;
+        background: linear-gradient(45deg, #ff00b3, #ff5e00);
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+        z-index: 999;
+        margin: 5px 0;}
